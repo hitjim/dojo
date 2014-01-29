@@ -1,4 +1,4 @@
-package course.examples.helloandroid;
+package com.example.helloandroid;
 
 import android.os.Bundle;
 import android.app.Activity;
