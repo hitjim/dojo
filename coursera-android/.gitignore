@@ -52,3 +52,6 @@ local.properties
 
 # TeXlipse plugin
 .texlipse
+
+# ignoring .swp files - in case I have my notes open in vi or something
+*.swp
