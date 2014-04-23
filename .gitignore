@@ -14,3 +14,6 @@
 
 #directories
 angjs/bower_components
+
+#temp files
+*.swp
